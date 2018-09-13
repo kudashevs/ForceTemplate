@@ -11,11 +11,6 @@ $tmp = array(
         'value' => false,
         'area' => PKG_NAME_LOWER . '.main',
     ),
-    'template_check' => array(
-        'xtype' => 'combo-boolean',
-        'value' => false,
-        'area' => PKG_NAME_LOWER . '.main',
-    ),
 );
 
 foreach ($tmp as $k => $v) {

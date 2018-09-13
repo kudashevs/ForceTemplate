@@ -1,5 +1,11 @@
 Changelog for ForceTemplate
 
+1.0.1-pl
+==============
+- Add choose template by name
+- Remove template_check option
+- Some improvements
+
 1.0.0-pl
 ==============
 - Initial release
