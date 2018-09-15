@@ -1,5 +1,11 @@
 Changelog for ForceTemplate
 
+
+1.0.2-pl
+==============
+- Add multi-level functionality
+- Some refactoring and improvements
+
 1.0.1-pl
 ==============
 - Add choose template by name
