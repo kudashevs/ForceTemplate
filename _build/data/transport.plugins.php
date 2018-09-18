@@ -7,6 +7,7 @@ $tmp = array(
         'description' => 'MODx Revolution plugin force using given Template for selected parents.',
         'events' => array(
             'OnDocFormRender' => 0,
+            'OnManagerPageBeforeRender' => 0,
         ),
     ),
 );

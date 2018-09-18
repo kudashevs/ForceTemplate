@@ -1,5 +1,10 @@
 Changelog for ForceTemplate
 
+1.0.3-pl
+==============
+- Add "Quick Create" menu support
+- Add component usage example
+- Some refactoring and improvements
 
 1.0.2-pl
 ==============

@@ -6,6 +6,11 @@ $tmp = array(
         'value' => '',
         'area' => PKG_NAME_LOWER . '.main',
     ),
+    'quick_create' => array(
+        'xtype' => 'combo-boolean',
+        'value' => true,
+        'area' => PKG_NAME_LOWER . '.main',
+    ),
     'parents_check' => array(
         'xtype' => 'combo-boolean',
         'value' => false,
